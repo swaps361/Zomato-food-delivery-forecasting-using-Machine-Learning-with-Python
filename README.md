@@ -36,8 +36,10 @@ Zomato to make data-driven decisions and stay competitive in the dynamic food de
 #### Usage
 1. Import the libraries
 2. Preprocess the data
-3. Train the model
-4. Evaluate the model
+3. Feature Engineeing
+4. Train the model
+5. Evaluate the model
+6. Result Generation
 
 #### Contact
 For any questions or feedback, feel free to reach out to [swapnildas742@gmail.com](mailto:swapnildas742@gmail.com) .
